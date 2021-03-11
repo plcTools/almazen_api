@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "almazen_api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "forever": "forever index.js",
     "test": "mocha -w ./tests/**/*.spec.js"
   },
-  "author": "Dev5",
+  "author": "Patricio Cadenas",
   "license": "ISC",
   "engines": {
     "node": ">=12.18.3",
